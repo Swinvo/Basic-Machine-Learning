@@ -1,5 +1,5 @@
 import numpy as np
-# No   featueA          featueB       featureC
+# No   featureA         featureB       featureC
 # 1       40920           8.3             0.9
 # 2       14488           7.1             1.6
 # 3       26052           1.4             0.8
