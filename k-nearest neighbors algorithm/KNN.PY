@@ -8,7 +8,7 @@ import operator
 #  3        1                81               a
 #  4       100               10               b
 #  5       101                4               b
-#  6        81                2               b
+#  6       120                2               b
 #  7        18                90              ?
 
 # wirte some compare data 
